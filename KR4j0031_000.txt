@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 孏窟詞
+#+DATE: 2015-08-25 00:47:50.526638
+#+PROPERTY: ID KR4j0031
+#+PROPERTY: BASEEDITION WYG    
